@@ -1,5 +1,3 @@
 'use strict';
 
-// 教員が新しくデプロイしたGASのURLを設定してください。
-// 設定後、学生にはこのファイルを変更させません。
-const API_BASE_URL = 'GAS_WEB_APP_URL_HERE';
+const API_BASE_URL = 'https://script.google.com/macros/s/AKfycbwNxjPVdMBr4EEQOykR49tZmG4UenrJ32qSzGoA3ByzsnE_vbZhDE-uNGp3KH9F2ZNByw/exec';
